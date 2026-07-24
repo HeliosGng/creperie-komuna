@@ -1,0 +1,6 @@
+{
+  "name": "Creperie Komuna",
+  "description": "Modern creperie website in Tirana, Albania with bilingual menu, table reservations, directions, and online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
