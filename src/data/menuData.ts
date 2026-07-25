@@ -242,7 +242,7 @@ export const menuItems: MenuItem[] = [
     price: 360,
     description: { sq: 'Banane, biskota, lotus', en: 'Banana, biscuits, lotus spread' },
     ingredients: { sq: ['Banane', 'Biskota', 'Lotus'], en: ['Banana', 'Biscuits', 'Lotus'] },
-    image: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/69ce5f6040343cbb32c860a6?w=600',
   },
   {
     id: 'premium-cokollate-oreo',
@@ -251,7 +251,7 @@ export const menuItems: MenuItem[] = [
     price: 250,
     description: { sq: 'Çokollatë e bardhë, biskota Oreo', en: 'White chocolate, Oreo biscuits' },
     ingredients: { sq: ['Çokollatë e bardhë', 'Biskota Oreo'], en: ['White chocolate', 'Oreo biscuits'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/69ce5f871407e461f1a0559b?w=600',
   },
   {
     id: 'premium-lotus',
@@ -260,7 +260,7 @@ export const menuItems: MenuItem[] = [
     price: 280,
     description: { sq: 'Krem lotus', en: 'Lotus cream spread' },
     ingredients: { sq: ['Krem lotus'], en: ['Lotus spread'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/69ce5fb31407e461f1a055a4?w=600',
   },
   {
     id: 'premium-raffaelo',
@@ -340,7 +340,7 @@ export const menuItems: MenuItem[] = [
     price: 200,
     description: { sq: 'Djathë pice, proshutë, domate, salcë djathi', en: 'Pizza cheese, ham, tomato, cheese sauce' },
     ingredients: { sq: ['Djathë pice', 'Proshutë', 'Domate', 'Salcë djathi'], en: ['Pizza cheese', 'Ham', 'Tomato', 'Cheese sauce'] },
-    image: savoryCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571ec50b61ae1437497d66?w=600',
   },
   {
     id: 'savory-4-djathrat',
@@ -349,7 +349,7 @@ export const menuItems: MenuItem[] = [
     price: 300,
     description: { sq: 'Djathë pice, gorgonzola, djathë i bardhë, Philadelphia', en: 'Pizza cheese, gorgonzola, white cheese, Philadelphia' },
     ingredients: { sq: ['Djathë pice', 'Gorgonzola', 'Djathë i bardhë', 'Philadelphia'], en: ['Pizza cheese', 'Gorgonzola', 'White cheese', 'Philadelphia'] },
-    image: savoryCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571de5ca587a012e7bad73?w=600',
     popular: true,
   },
   {
@@ -359,7 +359,7 @@ export const menuItems: MenuItem[] = [
     price: 250,
     description: { sq: 'Djathë pice, kremvice, karrotë, domate, salcë djathi', en: 'Pizza cheese, sausage, carrot, tomato, cheese sauce' },
     ingredients: { sq: ['Djathë pice', 'Kremvice', 'Karrotë', 'Domate', 'Salcë djathi'], en: ['Pizza cheese', 'Sausage', 'Carrot', 'Tomato', 'Cheese sauce'] },
-    image: savoryCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571e23848a677b03641c12?w=600',
   },
   {
     id: 'savory-alla-cream',
@@ -473,7 +473,7 @@ export const menuItems: MenuItem[] = [
     price: 350,
     description: { sq: 'Djathë pice, mozzarella, kërpudha, domate, pesto, Philadelphia', en: 'Pizza cheese, mozzarella, mushrooms, tomato, pesto, Philadelphia' },
     ingredients: { sq: ['Djathë pice', 'Mozzarella', 'Kërpudha', 'Domate', 'Pesto', 'Philadelphia'], en: ['Pizza cheese', 'Mozzarella', 'Mushrooms', 'Tomato', 'Pesto', 'Philadelphia'] },
-    image: savoryCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571fda0b61ae1437497d7c?w=600',
     isChefSpecial: true,
   },
   {
@@ -483,7 +483,7 @@ export const menuItems: MenuItem[] = [
     price: 300,
     description: { sq: 'Pancetë, avokado, sallatë jeshile, Philadelphia', en: 'Pancetta, avocado, green lettuce, Philadelphia' },
     ingredients: { sq: ['Pancetë', 'Avokado', 'Sallatë jeshile', 'Philadelphia'], en: ['Pancetta', 'Avocado', 'Green lettuce', 'Philadelphia'] },
-    image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571df92f6a1159bbc027f1?w=600',
     popular: true,
   },
   {
@@ -493,7 +493,7 @@ export const menuItems: MenuItem[] = [
     price: 350,
     description: { sq: 'Djathë pice, fileto pule, parmixhano, domate, sallatë jeshile, Philadelphia', en: 'Pizza cheese, chicken fillet, parmesan, tomato, green lettuce, Philadelphia' },
     ingredients: { sq: ['Djathë pice', 'Fileto pule', 'Parmixhano', 'Domate', 'Sallatë jeshile', 'Philadelphia'], en: ['Pizza cheese', 'Chicken fillet', 'Parmesan', 'Tomato', 'Green lettuce', 'Philadelphia'] },
-    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571e2e848a677b03641c13?w=600',
   },
   {
     id: 'special-mediterranean',
@@ -543,7 +543,7 @@ export const menuItems: MenuItem[] = [
     price: 350,
     description: { sq: 'Sallatë e freskët frutash të stinës', en: 'Fresh seasonal fruit salad' },
     ingredients: { sq: ['Fruta stine', 'Mjaltë'], en: ['Seasonal fruits', 'Honey'] },
-    image: 'https://images.unsplash.com/photo-1568800130548-8b98a637213d?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f7da494117b965bf86ad?w=600',
     isVegetarian: true,
   },
   {
@@ -553,7 +553,7 @@ export const menuItems: MenuItem[] = [
     price: 350,
     description: { sq: 'Sallatë jeshile, pule, parmixhano, krutona, salcë cezar', en: 'Green lettuce, chicken, parmesan, croutons, Caesar dressing' },
     ingredients: { sq: ['Sallatë jeshile', 'Pule', 'Parmixhano', 'Krutona'], en: ['Green lettuce', 'Chicken', 'Parmesan', 'Croutons'] },
-    image: 'https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6882357e7446838b951cddfd?w=600',
     popular: true,
   },
   {
@@ -572,7 +572,7 @@ export const menuItems: MenuItem[] = [
     price: 300,
     description: { sq: 'Sallatë e veçantë e shefit me përbërës të zgjedhur', en: 'Chef special salad with selected ingredients' },
     ingredients: { sq: ['Përbërës miks të freskët'], en: ['Fresh mixed ingredients'] },
-    image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6882353d7446838b951cddfc?w=600',
   },
   {
     id: 'salad-rukola',
@@ -595,7 +595,7 @@ export const menuItems: MenuItem[] = [
     price: 280,
     description: { sq: 'Djathë pice, proshutë, krem, Philadelphia', en: 'Pizza cheese, ham, cream, Philadelphia' },
     ingredients: { sq: ['Djathë pice', 'Proshutë', 'Krem', 'Philadelphia'], en: ['Pizza cheese', 'Ham', 'Cream', 'Philadelphia'] },
-    image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/688231dc7446838b951cddaf?w=600',
   },
   {
     id: 'sandwich-klasik',
@@ -604,7 +604,7 @@ export const menuItems: MenuItem[] = [
     price: 200,
     description: { sq: 'Djathë pice, kastravec, domate, sallatë, feta', en: 'Pizza cheese, cucumber, tomato, lettuce, feta' },
     ingredients: { sq: ['Djathë pice', 'Kastravec', 'Domate', 'Sallatë', 'Feta'], en: ['Pizza cheese', 'Cucumber', 'Tomato', 'Lettuce', 'Feta'] },
-    image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/688231dc7446838b951cddab?w=600',
   },
   {
     id: 'sandwich-kremvice',
@@ -613,7 +613,7 @@ export const menuItems: MenuItem[] = [
     price: 200,
     description: { sq: 'Djathë pice, kremvice, domate, majonezë', en: 'Pizza cheese, sausage, tomato, mayo' },
     ingredients: { sq: ['Djathë pice', 'Kremvice', 'Domate', 'Majonezë'], en: ['Pizza cheese', 'Sausage', 'Tomato', 'Mayo'] },
-    image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/688231dc7446838b951cddab?w=600',
   },
   {
     id: 'sandwich-fshati',
@@ -663,7 +663,7 @@ export const menuItems: MenuItem[] = [
     price: 250,
     description: { sq: 'Mix fruta, arra, mjaltë', en: 'Fruit mix, walnuts, honey' },
     ingredients: { sq: ['Mix fruta', 'Arra', 'Mjaltë'], en: ['Mixed fruits', 'Walnuts', 'Honey'] },
-    image: 'https://images.unsplash.com/photo-1568800130548-8b98a637213d?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f805494117b965bf86b0?w=600',
   },
 
   // ==========================================
@@ -676,7 +676,7 @@ export const menuItems: MenuItem[] = [
     price: 150,
     description: { sq: 'Pepsi 330ml', en: 'Pepsi 330ml' },
     ingredients: { sq: ['Pije me gaz'], en: ['Soft drink'] },
-    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2e9?w=600',
   },
   {
     id: 'drink-ivi',
@@ -685,7 +685,7 @@ export const menuItems: MenuItem[] = [
     price: 150,
     description: { sq: 'Ivi portokall 330ml', en: 'Ivi orange 330ml' },
     ingredients: { sq: ['Pije me gaz'], en: ['Soft drink'] },
-    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2e1?w=600',
   },
   {
     id: 'drink-7up',
