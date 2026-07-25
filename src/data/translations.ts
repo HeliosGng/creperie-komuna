@@ -157,7 +157,7 @@ export const translations = {
     // Footer
     footer: {
       rights: 'Të gjitha të drejtat e rezervuara. Creperie Komuna Tiranë.',
-      tagline: 'Krepateria më e preferuar në Tiranë për krepa të ëmbla e të kripura.',
+      tagline: 'Kreperia më e preferuar në Tiranë për krepa të ëmbla e të kripura.',
       quickLinks: 'Lidhje të Shpejta',
     }
   },
