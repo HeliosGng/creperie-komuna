@@ -18,7 +18,7 @@ export const translations = {
     // Hero
     hero: {
       badge: 'Shije që të bëjnë të kthehesh sërish! ❤️',
-      title: 'Krepateria më e dashur në Tiranë',
+      title: 'Kreperia më e dashur në Tiranë',
       subtitle: 'Krepa të freskëta, të ëmbla dhe të kripura të përgatitura çdo ditë me përbërësit më cilësorë.',
       viewMenu: 'Shiko Menunë',
       reserveTable: 'Rezervo Tryezë ("Seat Me")',
