@@ -36,7 +36,7 @@ export const menuItems: MenuItem[] = [
     price: 150,
     description: { sq: 'Krem çokollatë', en: 'Chocolate cream' },
     ingredients: { sq: ['Krem çokollatë'], en: ['Chocolate cream'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571ee10b61ae1437497d6d?w=600',
   },
   {
     id: 'sweet-nutella',
@@ -45,7 +45,7 @@ export const menuItems: MenuItem[] = [
     price: 190,
     description: { sq: 'Nutella origjinale', en: 'Original Nutella' },
     ingredients: { sq: ['Nutella'], en: ['Nutella'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571ee10b61ae1437497d6d?w=600',
     popular: true,
   },
   {
@@ -55,7 +55,7 @@ export const menuItems: MenuItem[] = [
     price: 180,
     description: { sq: 'Çokollatë e bardhë', en: 'White chocolate' },
     ingredients: { sq: ['Çokollatë e bardhë'], en: ['White chocolate'] },
-    image: 'https://images.unsplash.com/photo-1519676867240-f03562e64548?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f7a1365afab7787b5bd9?w=600',
   },
   {
     id: 'sweet-lidia',
@@ -64,7 +64,7 @@ export const menuItems: MenuItem[] = [
     price: 220,
     description: { sq: 'Çokollatë, biskota, banane', en: 'Chocolate, biscuits, banana' },
     ingredients: { sq: ['Çokollatë', 'Biskota', 'Banane'], en: ['Chocolate', 'Biscuits', 'Banana'] },
-    image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571e51848a677b03641c20?w=600',
   },
   {
     id: 'sweet-lidia-nutella',
@@ -73,7 +73,7 @@ export const menuItems: MenuItem[] = [
     price: 270,
     description: { sq: 'Nutella, banane, biskota', en: 'Nutella, banana, biscuits' },
     ingredients: { sq: ['Nutella', 'Banane', 'Biskota'], en: ['Nutella', 'Banana', 'Biscuits'] },
-    image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571e51848a677b03641c20?w=600',
     popular: true,
   },
   {
@@ -83,7 +83,7 @@ export const menuItems: MenuItem[] = [
     price: 300,
     description: { sq: 'Pistakio, banane, biskota', en: 'Pistachio, banana, biscuits' },
     ingredients: { sq: ['Pistakio', 'Banane', 'Biskota'], en: ['Pistachio', 'Banana', 'Biscuits'] },
-    image: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f7c3494117b965bf86a4?w=600',
     popular: true,
   },
   {
@@ -93,7 +93,7 @@ export const menuItems: MenuItem[] = [
     price: 200,
     description: { sq: 'Çokollatë, biskota, Baileys', en: 'Chocolate, biscuits, Baileys' },
     ingredients: { sq: ['Çokollatë', 'Biskota', 'Baileys'], en: ['Chocolate', 'Biscuits', 'Baileys'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571e1d447efd43463bc031?w=600',
   },
   {
     id: 'sweet-nuts',
@@ -102,7 +102,7 @@ export const menuItems: MenuItem[] = [
     price: 250,
     description: { sq: 'Nutella, lajthi, stafidhe', en: 'Nutella, hazelnuts, raisins' },
     ingredients: { sq: ['Nutella', 'Lajthi', 'Stafidhe'], en: ['Nutella', 'Hazelnuts', 'Raisins'] },
-    image: heroCrepeImg,
+    image: 'https://imageproxy.wolt.com/assets/66571f17447efd43463bc03d?w=600',
   },
   {
     id: 'sweet-kahlua',
